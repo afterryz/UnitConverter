@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+/.idea/
+/*.iml
+
+# Gradle (если появится)
+/.gradle/
+/build/
+/out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Локальные настройки
+local.properties
